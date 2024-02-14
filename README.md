@@ -10,4 +10,11 @@ A new Flutter project.
 ![photo_2024-02-14 15 41 26](https://github.com/JaxongirIsmoilov/audio_book_app/assets/44000309/91b745fa-48f6-4c71-8b2e-7f9a026b80f1)
 ![photo_2024-02-14 15 41 31](https://github.com/JaxongirIsmoilov/audio_book_app/assets/44000309/a8beba1e-252a-44da-905c-80cf30c9330a)
 
+## Used technologies
+1) Firebase
+2) FirebaseAuth
+3) Pdf viewer
+4) audio players
+5) Bloc
+6) Clean Architecture
 
